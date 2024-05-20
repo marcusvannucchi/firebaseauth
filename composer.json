@@ -1,0 +1,9 @@
+{
+    "name": "admin/aulaphp",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
